@@ -11,19 +11,19 @@ Instead of relying on unconstrained LLM text generation, Recoup calculates the *
 ## ✨ Key Features
 
 - 🛡️ **Dual-Surface Recovery Architecture**
-  - **Surface 1 (Payments):** Diagnoses real-time payment failures (e.g., insufficient_funds, checkout_dropoff, mandate_failure) and orchestrates retries or reauth nudges.
+  - **Surface 1 (Payments):** Diagnoses real-time payment failures (e.g., `insufficient_funds`, `checkout_dropoff`, `mandate_failure`) and orchestrates retries or reauth nudges.
   - **Surface 2 (Promises):** Scores customer reliability for overdue B2B receivables and tracks promises to pay, escalating automatically if missed.
 
 - 🧠 **Algorithmic Decision Engine**
-  - Calculates the **Expected Value** (Probability × Amount) - Cost for every candidate action.
+  - Calculates the **Expected Value** `(Probability × Amount) - Cost` for every candidate action.
   - Features smart stopping rules (e.g., blocks retries after 3 attempts, limits high-friction outreach on low-value invoices).
 
 - 🔒 **Enterprise Guardrails & Compliance**
   - Never goes rogue. Low-confidence inferences (<60%) or high-value anomalies are automatically escalated to manual review.
-  - Strictly respects do_not_contact and do_not_retry compliance flags.
+  - Strictly respects `do_not_contact` and `do_not_retry` compliance flags.
 
 - 📊 **Real-Time Simulation & Audit Trail**
-  - Bring your own data! Upload CSVs/Excel files and instantly map them to Recoup\'s internal schema.
+  - Bring your own data! Upload CSVs/Excel files and instantly map them to Recoup's internal schema.
   - Generates an immutable, cryptographic-style **Audit Trail** explaining exactly *why* an action was chosen, and *why* other actions were rejected by policy.
   - Visualizes measured money recovered (₹) across entire batches in a sleek React dashboard.
 
@@ -43,26 +43,26 @@ Instead of relying on unconstrained LLM text generation, Recoup calculates the *
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-`ash
+```bash
 git clone https://github.com/Bala-17-prog/recoup.git
 cd recoup
-`
+```
 
 ### 2. Start the Backend
-`ash
+```bash
 cd backend
 python -m venv venv
 .\venv\Scripts\activate
 pip install -r requirements.txt
 python run.py
-`
+```
 
 ### 3. Start the Frontend
-`ash
+```bash
 cd frontend
 npm install
 npm run dev
-`
+```
 
 ---
 
