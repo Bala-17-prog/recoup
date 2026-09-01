@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from 'react';
 import { Activity, ShieldCheck, Database, RefreshCw, AlertTriangle, ArrowRight, Zap, Target, UploadCloud, Info, X, GitMerge, FileCheck, CheckCircle2, ListFilter, Sliders } from 'lucide-react';
 import UploadFlow from './UploadFlow';
 
-const API_BASE = "http://localhost:8000/api";
+const API_BASE = "https://recoup-cqn9.onrender.com/api";
 
 const TooltipIcon = ({ text }) => (
     <div className="group relative inline-flex items-center ml-1.5 cursor-help">

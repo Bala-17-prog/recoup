@@ -3,7 +3,7 @@ import { Activity, ShieldCheck, Database, RefreshCw, AlertTriangle, ArrowRight, 
 import UploadFlow from './UploadFlow';
 import { OnboardingModal, HowItWorksModal, ProductTourOverlay, HelpDropdown, DemoScenarios } from './FTUX';
 
-const API_BASE = "http://localhost:8000/api";
+const API_BASE = "https://recoup-cqn9.onrender.com/api";
 
 const TooltipIcon = ({ text }) => (
     <div className="group relative inline-flex items-center ml-1.5 cursor-help">
