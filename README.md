@@ -8,6 +8,40 @@ Instead of relying on unconstrained LLM text generation, Recoup calculates the *
 
 ---
 
+
+## 🏗️ System Architecture
+
+```mermaid
+graph TD
+    subgraph Data Ingestion
+        A[CSV/Excel Upload] --> B(File Parser & Validator)
+    end
+
+    subgraph Dual-Surface Diagnosis
+        B --> D{Recovery Surface}
+        D -->|Surface 1: Payments| E[Payment Degradation Engine]
+        D -->|Surface 2: Promises| F[Promise-to-Pay Tracker]
+        E --> G[Root Cause Inference]
+    end
+
+    subgraph Core Decision Engine
+        G --> H[Candidate Action Generator]
+        F --> H
+        H --> I[Expected Value Calculator]
+        I --> J[Business Policy Filters]
+        J --> K[Safety Guardrails]
+    end
+
+    subgraph Execution & Audit
+        K -->|Automated Action| L[Recovery Simulator]
+        K -->|Blocked / Low Confidence| M[Manual Escalation]
+        L --> N[(Immutable Audit Database)]
+        M --> N
+    end
+
+    N --> O[React Frontend Dashboard]
+```
+
 ## ✨ Key Features
 
 - 🛡️ **Dual-Surface Recovery Architecture**
