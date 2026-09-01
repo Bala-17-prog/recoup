@@ -9,6 +9,12 @@ Instead of relying on unconstrained LLM text generation, Recoup calculates the *
 ---
 
 
+
+## 🌐 Live Demo & Deployment
+
+- **Frontend (Vercel):** [https://recoup-blush-phi.vercel.app](https://recoup-blush-phi.vercel.app)
+- **Backend API Docs (Render):** [https://recoup-cqn9.onrender.com/docs](https://recoup-cqn9.onrender.com/docs)
+
 ## 🏗️ System Architecture
 
 ```mermaid
