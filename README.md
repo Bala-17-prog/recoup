@@ -23,7 +23,7 @@ Instead of relying on unconstrained LLM text generation, Recoup calculates the *
   - Strictly respects do_not_contact and do_not_retry compliance flags.
 
 - 📊 **Real-Time Simulation & Audit Trail**
-  - Bring your own data! Upload CSVs/Excel files and instantly map them to Recoup's internal schema.
+  - Bring your own data! Upload CSVs/Excel files and instantly map them to Recoup\'s internal schema.
   - Generates an immutable, cryptographic-style **Audit Trail** explaining exactly *why* an action was chosen, and *why* other actions were rejected by policy.
   - Visualizes measured money recovered (₹) across entire batches in a sleek React dashboard.
 
@@ -43,24 +43,27 @@ Instead of relying on unconstrained LLM text generation, Recoup calculates the *
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-\\ash
+`ash
 git clone https://github.com/Bala-17-prog/recoup.git
 cd recoup
-\
+`
+
 ### 2. Start the Backend
-\\ash
+`ash
 cd backend
 python -m venv venv
 .\venv\Scripts\activate
-pip install -r requirements.txt  # Or install fastapi uvicorn pandas numpy openpyxl python-multipart
+pip install -r requirements.txt
 python run.py
-\
+`
+
 ### 3. Start the Frontend
-\\ash
+`ash
 cd frontend
 npm install
 npm run dev
-\
+`
+
 ---
 
 *Built with 💙 for the Razorpay AI Buildathon.*
