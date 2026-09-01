@@ -1,0 +1,2921 @@
+[
+  {
+    "transaction_id": "tx_918778",
+    "customer_id": "cust_A_5332",
+    "amount": 4671.05,
+    "currency": "INR",
+    "failure_code": "ERR_850",
+    "failure_reason": "expired_card",
+    "timestamp": "2026-07-28T09:47:01.908005",
+    "retry_count": 3,
+    "customer_payment_history": {
+      "past_success_rate": 0.61,
+      "past_retry_responsiveness": 0.12,
+      "total_transactions": 23,
+      "avg_amount": 3594.74
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_750311",
+    "customer_id": "cust_A_2445",
+    "amount": 23524.25,
+    "currency": "INR",
+    "failure_code": "ERR_289",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-07-25T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "total_transactions": 0,
+      "past_success_rate": 0.0
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": true,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_135484",
+    "customer_id": "cust_A_5094",
+    "amount": 21031.08,
+    "currency": "INR",
+    "failure_code": "ERR_138",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-13T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.55,
+      "past_retry_responsiveness": 0.5,
+      "total_transactions": 11,
+      "avg_amount": 15730.98
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": true
+    }
+  },
+  {
+    "transaction_id": "tx_827166",
+    "customer_id": "cust_A_9368",
+    "amount": 968.39,
+    "currency": "INR",
+    "failure_code": "ERR_272",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-18T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.89,
+      "past_retry_responsiveness": 0.93,
+      "total_transactions": 9,
+      "avg_amount": 11388.52
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_816452",
+    "customer_id": "cust_A_7663",
+    "amount": 7971.97,
+    "currency": "INR",
+    "failure_code": "ERR_681",
+    "failure_reason": "expired_card",
+    "timestamp": "2026-08-09T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.79,
+      "past_retry_responsiveness": 0.16,
+      "total_transactions": 28,
+      "avg_amount": 4751.78
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_329537",
+    "customer_id": "cust_A_6342",
+    "amount": 8468.05,
+    "currency": "INR",
+    "failure_code": "ERR_539",
+    "failure_reason": "network_error",
+    "timestamp": "2026-07-31T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.56,
+      "past_retry_responsiveness": 0.22,
+      "total_transactions": 36,
+      "avg_amount": 15549.97
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_178348",
+    "customer_id": "cust_A_4839",
+    "amount": 18679.4,
+    "currency": "INR",
+    "failure_code": "ERR_894",
+    "failure_reason": "network_error",
+    "timestamp": "2026-07-30T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.53,
+      "past_retry_responsiveness": 0.53,
+      "total_transactions": 17,
+      "avg_amount": 1007.51
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_662399",
+    "customer_id": "cust_A_3112",
+    "amount": 20358.05,
+    "currency": "INR",
+    "failure_code": "ERR_454",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-07-27T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.56,
+      "past_retry_responsiveness": 0.61,
+      "total_transactions": 27,
+      "avg_amount": 13207.31
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_793633",
+    "customer_id": "cust_A_6782",
+    "amount": 21581.18,
+    "currency": "INR",
+    "failure_code": "ERR_776",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-23T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.78,
+      "past_retry_responsiveness": 0.59,
+      "total_transactions": 40,
+      "avg_amount": 2835.06
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_294697",
+    "customer_id": "cust_A_6787",
+    "amount": 14912.56,
+    "currency": "INR",
+    "failure_code": "ERR_480",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-20T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.34,
+      "past_retry_responsiveness": 0.02,
+      "total_transactions": 32,
+      "avg_amount": 12881.01
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_790493",
+    "customer_id": "cust_A_7176",
+    "amount": 23039.99,
+    "currency": "INR",
+    "failure_code": "ERR_327",
+    "failure_reason": "card_declined",
+    "timestamp": "2026-08-13T09:47:01.910022",
+    "retry_count": 3,
+    "customer_payment_history": {
+      "past_success_rate": 0.67,
+      "past_retry_responsiveness": 0.4,
+      "total_transactions": 21,
+      "avg_amount": 15508.35
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_966803",
+    "customer_id": "cust_A_9517",
+    "amount": 21292.7,
+    "currency": "INR",
+    "failure_code": "ERR_305",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-06T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 1.0,
+      "past_retry_responsiveness": 0.26,
+      "total_transactions": 10,
+      "avg_amount": 19232.72
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": true,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_112291",
+    "customer_id": "cust_A_7477",
+    "amount": 9045.62,
+    "currency": "INR",
+    "failure_code": "ERR_295",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-08-18T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.62,
+      "past_retry_responsiveness": 0.77,
+      "total_transactions": 34,
+      "avg_amount": 17174.59
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_278135",
+    "customer_id": "cust_A_9040",
+    "amount": 1534.98,
+    "currency": "INR",
+    "failure_code": "ERR_713",
+    "failure_reason": "3ds_dropoff",
+    "timestamp": "2026-07-28T09:47:01.910022",
+    "retry_count": 3,
+    "customer_payment_history": {
+      "past_success_rate": 0.63,
+      "past_retry_responsiveness": 0.56,
+      "total_transactions": 35,
+      "avg_amount": 2490.76
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_379873",
+    "customer_id": "cust_A_6130",
+    "amount": 1377.22,
+    "currency": "INR",
+    "failure_code": "ERR_332",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-07-25T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.98,
+      "past_retry_responsiveness": 0.96,
+      "total_transactions": 45,
+      "avg_amount": 15313.68
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_929880",
+    "customer_id": "cust_A_9534",
+    "amount": 2448.14,
+    "currency": "INR",
+    "failure_code": "ERR_572",
+    "failure_reason": "3ds_dropoff",
+    "timestamp": "2026-08-13T09:47:01.910022",
+    "retry_count": 3,
+    "customer_payment_history": {
+      "past_success_rate": 0.2,
+      "past_retry_responsiveness": 0.98,
+      "total_transactions": 49,
+      "avg_amount": 8910.84
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_473181",
+    "customer_id": "cust_A_6901",
+    "amount": 8881.94,
+    "currency": "INR",
+    "failure_code": "ERR_115",
+    "failure_reason": "otp_failure",
+    "timestamp": "2026-08-11T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.52,
+      "past_retry_responsiveness": 0.48,
+      "total_transactions": 29,
+      "avg_amount": 15005.45
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_713460",
+    "customer_id": "cust_A_2983",
+    "amount": 13220.06,
+    "currency": "INR",
+    "failure_code": "ERR_665",
+    "failure_reason": "otp_failure",
+    "timestamp": "2026-08-06T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.0,
+      "past_retry_responsiveness": 0.81,
+      "total_transactions": 1,
+      "avg_amount": 1129.37
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_395697",
+    "customer_id": "cust_A_4642",
+    "amount": 6755.85,
+    "currency": "INR",
+    "failure_code": "ERR_531",
+    "failure_reason": "otp_failure",
+    "timestamp": "2026-07-28T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "total_transactions": 0,
+      "past_success_rate": 0.0
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_287749",
+    "customer_id": "cust_A_5520",
+    "amount": 20962.87,
+    "currency": "INR",
+    "failure_code": "ERR_752",
+    "failure_reason": "otp_failure",
+    "timestamp": "2026-08-16T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.26,
+      "past_retry_responsiveness": 0.29,
+      "total_transactions": 34,
+      "avg_amount": 6462.27
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": true,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_559176",
+    "customer_id": "cust_A_8636",
+    "amount": 4084.29,
+    "currency": "INR",
+    "failure_code": "ERR_935",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-24T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.29,
+      "past_retry_responsiveness": 0.74,
+      "total_transactions": 14,
+      "avg_amount": 4513.92
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_496833",
+    "customer_id": "cust_A_5138",
+    "amount": 1801.75,
+    "currency": "INR",
+    "failure_code": "ERR_594",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-08-04T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.74,
+      "past_retry_responsiveness": 0.59,
+      "total_transactions": 43,
+      "avg_amount": 6605.57
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_479810",
+    "customer_id": "cust_A_9498",
+    "amount": 3660.49,
+    "currency": "INR",
+    "failure_code": "ERR_393",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-08-07T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.07,
+      "past_retry_responsiveness": 0.38,
+      "total_transactions": 46,
+      "avg_amount": 14606.95
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": true
+    }
+  },
+  {
+    "transaction_id": "tx_952941",
+    "customer_id": "cust_A_7432",
+    "amount": 7635.74,
+    "currency": "INR",
+    "failure_code": "ERR_913",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-03T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.57,
+      "past_retry_responsiveness": 0.4,
+      "total_transactions": 28,
+      "avg_amount": 12066.16
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": true,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_495195",
+    "customer_id": "cust_A_1456",
+    "amount": 5469.57,
+    "currency": "INR",
+    "failure_code": "ERR_141",
+    "failure_reason": "otp_failure",
+    "timestamp": "2026-08-23T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.78,
+      "past_retry_responsiveness": 0.98,
+      "total_transactions": 27,
+      "avg_amount": 15851.97
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_995297",
+    "customer_id": "cust_A_8365",
+    "amount": 18162.25,
+    "currency": "INR",
+    "failure_code": "ERR_651",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-20T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "total_transactions": 0,
+      "past_success_rate": 0.0
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_978598",
+    "customer_id": "cust_A_2947",
+    "amount": 19187.97,
+    "currency": "INR",
+    "failure_code": "ERR_159",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-08-14T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.18,
+      "past_retry_responsiveness": 0.49,
+      "total_transactions": 17,
+      "avg_amount": 13160.73
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_264851",
+    "customer_id": "cust_A_3778",
+    "amount": 19778.61,
+    "currency": "INR",
+    "failure_code": "ERR_705",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-08-03T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.13,
+      "past_retry_responsiveness": 0.63,
+      "total_transactions": 39,
+      "avg_amount": 922.15
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_808456",
+    "customer_id": "cust_A_9138",
+    "amount": 12674.43,
+    "currency": "INR",
+    "failure_code": "ERR_131",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-07T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.29,
+      "past_retry_responsiveness": 0.43,
+      "total_transactions": 49,
+      "avg_amount": 4519.25
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_453944",
+    "customer_id": "cust_A_5839",
+    "amount": 14109.29,
+    "currency": "INR",
+    "failure_code": "ERR_227",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-20T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "total_transactions": 0,
+      "past_success_rate": 0.0
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_262130",
+    "customer_id": "cust_A_7075",
+    "amount": 9654.73,
+    "currency": "INR",
+    "failure_code": "ERR_371",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-16T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.54,
+      "past_retry_responsiveness": 0.84,
+      "total_transactions": 24,
+      "avg_amount": 11635.42
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_722445",
+    "customer_id": "cust_A_5442",
+    "amount": 9986.43,
+    "currency": "INR",
+    "failure_code": "ERR_400",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-23T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.18,
+      "past_retry_responsiveness": 0.34,
+      "total_transactions": 34,
+      "avg_amount": 8822.83
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_874421",
+    "customer_id": "cust_A_4099",
+    "amount": 18038.9,
+    "currency": "INR",
+    "failure_code": "ERR_738",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-05T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.62,
+      "past_retry_responsiveness": 0.71,
+      "total_transactions": 8,
+      "avg_amount": 3033.74
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_797907",
+    "customer_id": "cust_A_8113",
+    "amount": 6632.68,
+    "currency": "INR",
+    "failure_code": "ERR_871",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-23T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.33,
+      "past_retry_responsiveness": 0.26,
+      "total_transactions": 3,
+      "avg_amount": 15112.81
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_404282",
+    "customer_id": "cust_A_5863",
+    "amount": 8637.05,
+    "currency": "INR",
+    "failure_code": "ERR_108",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-03T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.43,
+      "past_retry_responsiveness": 0.34,
+      "total_transactions": 46,
+      "avg_amount": 12567.32
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_881174",
+    "customer_id": "cust_A_3792",
+    "amount": 19627.43,
+    "currency": "INR",
+    "failure_code": "ERR_546",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-02T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.29,
+      "past_retry_responsiveness": 0.52,
+      "total_transactions": 7,
+      "avg_amount": 16847.47
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_193463",
+    "customer_id": "cust_A_6319",
+    "amount": 20091.13,
+    "currency": "INR",
+    "failure_code": "ERR_316",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-05T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.49,
+      "past_retry_responsiveness": 0.51,
+      "total_transactions": 45,
+      "avg_amount": 18891.83
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_872778",
+    "customer_id": "cust_A_7107",
+    "amount": 15374.18,
+    "currency": "INR",
+    "failure_code": "ERR_446",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-08-11T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.92,
+      "past_retry_responsiveness": 0.32,
+      "total_transactions": 12,
+      "avg_amount": 17864.2
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_575587",
+    "customer_id": "cust_A_1951",
+    "amount": 11418.99,
+    "currency": "INR",
+    "failure_code": "ERR_552",
+    "failure_reason": "otp_failure",
+    "timestamp": "2026-08-09T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.0,
+      "past_retry_responsiveness": 0.93,
+      "total_transactions": 22,
+      "avg_amount": 18341.68
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_711281",
+    "customer_id": "cust_A_6155",
+    "amount": 4751.16,
+    "currency": "INR",
+    "failure_code": "ERR_335",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-07-28T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.0,
+      "past_retry_responsiveness": 0.85,
+      "total_transactions": 22,
+      "avg_amount": 9352.87
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_402305",
+    "customer_id": "cust_A_2240",
+    "amount": 19730.86,
+    "currency": "INR",
+    "failure_code": "ERR_660",
+    "failure_reason": "card_declined",
+    "timestamp": "2026-08-24T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.57,
+      "past_retry_responsiveness": 0.85,
+      "total_transactions": 7,
+      "avg_amount": 2754.72
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_444058",
+    "customer_id": "cust_A_1812",
+    "amount": 17858.69,
+    "currency": "INR",
+    "failure_code": "ERR_480",
+    "failure_reason": "3ds_dropoff",
+    "timestamp": "2026-08-20T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.89,
+      "past_retry_responsiveness": 0.97,
+      "total_transactions": 46,
+      "avg_amount": 19159.34
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_256400",
+    "customer_id": "cust_A_6560",
+    "amount": 1159.4,
+    "currency": "INR",
+    "failure_code": "ERR_585",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-01T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.33,
+      "past_retry_responsiveness": 0.86,
+      "total_transactions": 9,
+      "avg_amount": 17137.33
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_446390",
+    "customer_id": "cust_A_3659",
+    "amount": 19731.44,
+    "currency": "INR",
+    "failure_code": "ERR_589",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-08-07T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 1.0,
+      "past_retry_responsiveness": 0.55,
+      "total_transactions": 19,
+      "avg_amount": 7698.05
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_460137",
+    "customer_id": "cust_A_5703",
+    "amount": 15665.51,
+    "currency": "INR",
+    "failure_code": "ERR_667",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-07-27T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.88,
+      "past_retry_responsiveness": 0.97,
+      "total_transactions": 17,
+      "avg_amount": 6090.03
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_140160",
+    "customer_id": "cust_A_4494",
+    "amount": 19580.64,
+    "currency": "INR",
+    "failure_code": "ERR_269",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-11T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.96,
+      "past_retry_responsiveness": 0.06,
+      "total_transactions": 49,
+      "avg_amount": 16956.41
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": true,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_960686",
+    "customer_id": "cust_A_5005",
+    "amount": 12478.19,
+    "currency": "INR",
+    "failure_code": "ERR_892",
+    "failure_reason": "3ds_dropoff",
+    "timestamp": "2026-08-19T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.67,
+      "past_retry_responsiveness": 0.55,
+      "total_transactions": 3,
+      "avg_amount": 8407.73
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": true,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_666196",
+    "customer_id": "cust_A_8635",
+    "amount": 15267.49,
+    "currency": "INR",
+    "failure_code": "ERR_636",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-17T09:47:01.910022",
+    "retry_count": 3,
+    "customer_payment_history": {
+      "past_success_rate": 0.65,
+      "past_retry_responsiveness": 0.9,
+      "total_transactions": 40,
+      "avg_amount": 9033.17
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_652071",
+    "customer_id": "cust_A_1083",
+    "amount": 8860.74,
+    "currency": "INR",
+    "failure_code": "ERR_178",
+    "failure_reason": "3ds_dropoff",
+    "timestamp": "2026-07-31T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 1.0,
+      "past_retry_responsiveness": 0.92,
+      "total_transactions": 9,
+      "avg_amount": 12379.04
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_240991",
+    "customer_id": "cust_A_1632",
+    "amount": 12331.29,
+    "currency": "INR",
+    "failure_code": "ERR_253",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-08-09T09:47:01.910022",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.4,
+      "past_retry_responsiveness": 0.04,
+      "total_transactions": 5,
+      "avg_amount": 5649.45
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": true,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_130737",
+    "customer_id": "cust_A_7367",
+    "amount": 21885.41,
+    "currency": "INR",
+    "failure_code": "ERR_186",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-01T09:47:01.913998",
+    "retry_count": 3,
+    "customer_payment_history": {
+      "past_success_rate": 0.83,
+      "past_retry_responsiveness": 0.24,
+      "total_transactions": 41,
+      "avg_amount": 11010.56
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_332050",
+    "customer_id": "cust_A_6943",
+    "amount": 20021.54,
+    "currency": "INR",
+    "failure_code": "ERR_213",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-17T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.44,
+      "past_retry_responsiveness": 0.25,
+      "total_transactions": 27,
+      "avg_amount": 6335.43
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_227633",
+    "customer_id": "cust_A_7350",
+    "amount": 10401.68,
+    "currency": "INR",
+    "failure_code": "ERR_461",
+    "failure_reason": "3ds_dropoff",
+    "timestamp": "2026-08-06T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.39,
+      "past_retry_responsiveness": 0.34,
+      "total_transactions": 36,
+      "avg_amount": 8311.35
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_315984",
+    "customer_id": "cust_A_9186",
+    "amount": 2342.11,
+    "currency": "INR",
+    "failure_code": "ERR_225",
+    "failure_reason": "card_declined",
+    "timestamp": "2026-08-17T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.22,
+      "past_retry_responsiveness": 0.6,
+      "total_transactions": 9,
+      "avg_amount": 5638.75
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_891648",
+    "customer_id": "cust_A_4248",
+    "amount": 9190.61,
+    "currency": "INR",
+    "failure_code": "ERR_626",
+    "failure_reason": "otp_failure",
+    "timestamp": "2026-08-14T09:47:01.913998",
+    "retry_count": 3,
+    "customer_payment_history": {
+      "past_success_rate": 0.79,
+      "past_retry_responsiveness": 0.18,
+      "total_transactions": 19,
+      "avg_amount": 10187.42
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_115712",
+    "customer_id": "cust_A_2888",
+    "amount": 20174.15,
+    "currency": "INR",
+    "failure_code": "ERR_208",
+    "failure_reason": "card_declined",
+    "timestamp": "2026-07-25T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.52,
+      "past_retry_responsiveness": 0.38,
+      "total_transactions": 31,
+      "avg_amount": 2334.5
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": true
+    }
+  },
+  {
+    "transaction_id": "tx_732507",
+    "customer_id": "cust_A_3387",
+    "amount": 21002.14,
+    "currency": "INR",
+    "failure_code": "ERR_823",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-02T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.27,
+      "past_retry_responsiveness": 0.49,
+      "total_transactions": 22,
+      "avg_amount": 7106.95
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_335995",
+    "customer_id": "cust_A_3273",
+    "amount": 1517.37,
+    "currency": "INR",
+    "failure_code": "ERR_884",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-07-29T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.2,
+      "past_retry_responsiveness": 0.87,
+      "total_transactions": 30,
+      "avg_amount": 8096.01
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_779871",
+    "customer_id": "cust_A_7681",
+    "amount": 8962.92,
+    "currency": "INR",
+    "failure_code": "ERR_796",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-11T09:47:01.913998",
+    "retry_count": 3,
+    "customer_payment_history": {
+      "past_success_rate": 0.47,
+      "past_retry_responsiveness": 0.4,
+      "total_transactions": 32,
+      "avg_amount": 2323.59
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_366347",
+    "customer_id": "cust_A_3168",
+    "amount": 14441.8,
+    "currency": "INR",
+    "failure_code": "ERR_637",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-19T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.77,
+      "past_retry_responsiveness": 0.52,
+      "total_transactions": 44,
+      "avg_amount": 2419.52
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_577709",
+    "customer_id": "cust_A_4827",
+    "amount": 8494.79,
+    "currency": "INR",
+    "failure_code": "ERR_265",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-07-30T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.14,
+      "past_retry_responsiveness": 0.33,
+      "total_transactions": 7,
+      "avg_amount": 3609.69
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_799961",
+    "customer_id": "cust_A_5287",
+    "amount": 20254.06,
+    "currency": "INR",
+    "failure_code": "ERR_336",
+    "failure_reason": "otp_failure",
+    "timestamp": "2026-08-05T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.55,
+      "past_retry_responsiveness": 0.22,
+      "total_transactions": 33,
+      "avg_amount": 18275.87
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_779119",
+    "customer_id": "cust_A_1849",
+    "amount": 12970.98,
+    "currency": "INR",
+    "failure_code": "ERR_977",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-18T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "total_transactions": 0,
+      "past_success_rate": 0.0
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_394224",
+    "customer_id": "cust_A_5896",
+    "amount": 7529.07,
+    "currency": "INR",
+    "failure_code": "ERR_799",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-24T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.88,
+      "past_retry_responsiveness": 0.31,
+      "total_transactions": 16,
+      "avg_amount": 4688.46
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_812839",
+    "customer_id": "cust_A_7494",
+    "amount": 13862.85,
+    "currency": "INR",
+    "failure_code": "ERR_554",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-05T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.89,
+      "past_retry_responsiveness": 0.57,
+      "total_transactions": 27,
+      "avg_amount": 9606.12
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_119913",
+    "customer_id": "cust_A_2736",
+    "amount": 7395.6,
+    "currency": "INR",
+    "failure_code": "ERR_537",
+    "failure_reason": "card_declined",
+    "timestamp": "2026-08-19T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.11,
+      "past_retry_responsiveness": 0.74,
+      "total_transactions": 37,
+      "avg_amount": 15166.06
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_765430",
+    "customer_id": "cust_A_7567",
+    "amount": 17023.74,
+    "currency": "INR",
+    "failure_code": "ERR_197",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-05T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.28,
+      "past_retry_responsiveness": 0.11,
+      "total_transactions": 29,
+      "avg_amount": 14851.9
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_821586",
+    "customer_id": "cust_A_4066",
+    "amount": 23456.38,
+    "currency": "INR",
+    "failure_code": "ERR_993",
+    "failure_reason": "card_declined",
+    "timestamp": "2026-07-29T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.31,
+      "past_retry_responsiveness": 0.5,
+      "total_transactions": 29,
+      "avg_amount": 4427.67
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_750941",
+    "customer_id": "cust_A_9053",
+    "amount": 16383.52,
+    "currency": "INR",
+    "failure_code": "ERR_971",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-07-25T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.49,
+      "past_retry_responsiveness": 0.34,
+      "total_transactions": 37,
+      "avg_amount": 17789.65
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_900658",
+    "customer_id": "cust_A_7153",
+    "amount": 20941.53,
+    "currency": "INR",
+    "failure_code": "ERR_628",
+    "failure_reason": "otp_failure",
+    "timestamp": "2026-07-29T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.5,
+      "past_retry_responsiveness": 0.07,
+      "total_transactions": 48,
+      "avg_amount": 11047.15
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_660874",
+    "customer_id": "cust_A_9791",
+    "amount": 11540.83,
+    "currency": "INR",
+    "failure_code": "ERR_591",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-07-30T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.19,
+      "past_retry_responsiveness": 0.73,
+      "total_transactions": 16,
+      "avg_amount": 9072.18
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_491124",
+    "customer_id": "cust_A_6790",
+    "amount": 7360.0,
+    "currency": "INR",
+    "failure_code": "ERR_238",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-23T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 1.0,
+      "past_retry_responsiveness": 0.76,
+      "total_transactions": 47,
+      "avg_amount": 15331.63
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_394523",
+    "customer_id": "cust_A_6010",
+    "amount": 6138.7,
+    "currency": "INR",
+    "failure_code": "ERR_857",
+    "failure_reason": "expired_card",
+    "timestamp": "2026-08-02T09:47:01.913998",
+    "retry_count": 3,
+    "customer_payment_history": {
+      "past_success_rate": 0.43,
+      "past_retry_responsiveness": 0.41,
+      "total_transactions": 14,
+      "avg_amount": 8021.49
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_370825",
+    "customer_id": "cust_A_2242",
+    "amount": 8052.49,
+    "currency": "INR",
+    "failure_code": "ERR_297",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-14T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.26,
+      "past_retry_responsiveness": 0.0,
+      "total_transactions": 35,
+      "avg_amount": 17070.49
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_927364",
+    "customer_id": "cust_A_4026",
+    "amount": 15774.17,
+    "currency": "INR",
+    "failure_code": "ERR_712",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-12T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.8,
+      "past_retry_responsiveness": 0.3,
+      "total_transactions": 5,
+      "avg_amount": 18586.23
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_777319",
+    "customer_id": "cust_A_3767",
+    "amount": 2089.05,
+    "currency": "INR",
+    "failure_code": "ERR_134",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-17T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.08,
+      "past_retry_responsiveness": 0.41,
+      "total_transactions": 13,
+      "avg_amount": 578.1
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_537573",
+    "customer_id": "cust_A_2026",
+    "amount": 22825.98,
+    "currency": "INR",
+    "failure_code": "ERR_646",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-08-02T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.4,
+      "past_retry_responsiveness": 0.04,
+      "total_transactions": 5,
+      "avg_amount": 17491.17
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_238529",
+    "customer_id": "cust_A_2101",
+    "amount": 19128.94,
+    "currency": "INR",
+    "failure_code": "ERR_893",
+    "failure_reason": "card_declined",
+    "timestamp": "2026-08-18T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.56,
+      "past_retry_responsiveness": 0.26,
+      "total_transactions": 25,
+      "avg_amount": 12459.04
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_702369",
+    "customer_id": "cust_A_5911",
+    "amount": 20212.36,
+    "currency": "INR",
+    "failure_code": "ERR_465",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-06T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.75,
+      "past_retry_responsiveness": 0.28,
+      "total_transactions": 44,
+      "avg_amount": 18114.16
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_906173",
+    "customer_id": "cust_A_6084",
+    "amount": 21625.92,
+    "currency": "INR",
+    "failure_code": "ERR_616",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-05T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.81,
+      "past_retry_responsiveness": 0.62,
+      "total_transactions": 31,
+      "avg_amount": 7557.12
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_788874",
+    "customer_id": "cust_A_9940",
+    "amount": 4277.76,
+    "currency": "INR",
+    "failure_code": "ERR_784",
+    "failure_reason": "card_declined",
+    "timestamp": "2026-08-13T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.93,
+      "past_retry_responsiveness": 0.2,
+      "total_transactions": 46,
+      "avg_amount": 14229.47
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_764335",
+    "customer_id": "cust_A_7556",
+    "amount": 13499.24,
+    "currency": "INR",
+    "failure_code": "ERR_782",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-16T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.29,
+      "past_retry_responsiveness": 0.76,
+      "total_transactions": 14,
+      "avg_amount": 5445.89
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_482150",
+    "customer_id": "cust_A_1815",
+    "amount": 7486.29,
+    "currency": "INR",
+    "failure_code": "ERR_502",
+    "failure_reason": "network_error",
+    "timestamp": "2026-07-28T09:47:01.913998",
+    "retry_count": 3,
+    "customer_payment_history": {
+      "past_success_rate": 0.79,
+      "past_retry_responsiveness": 0.27,
+      "total_transactions": 42,
+      "avg_amount": 7605.75
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_153643",
+    "customer_id": "cust_A_8078",
+    "amount": 16610.45,
+    "currency": "INR",
+    "failure_code": "ERR_509",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-12T09:47:01.913998",
+    "retry_count": 3,
+    "customer_payment_history": {
+      "past_success_rate": 0.02,
+      "past_retry_responsiveness": 0.97,
+      "total_transactions": 48,
+      "avg_amount": 12924.4
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_229888",
+    "customer_id": "cust_A_8404",
+    "amount": 2425.19,
+    "currency": "INR",
+    "failure_code": "ERR_269",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-07-25T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.22,
+      "past_retry_responsiveness": 0.15,
+      "total_transactions": 9,
+      "avg_amount": 17647.01
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_393762",
+    "customer_id": "cust_A_4012",
+    "amount": 17580.13,
+    "currency": "INR",
+    "failure_code": "ERR_629",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-05T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.77,
+      "past_retry_responsiveness": 0.41,
+      "total_transactions": 47,
+      "avg_amount": 15220.72
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_638283",
+    "customer_id": "cust_A_3330",
+    "amount": 14978.21,
+    "currency": "INR",
+    "failure_code": "ERR_719",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-13T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.03,
+      "past_retry_responsiveness": 0.42,
+      "total_transactions": 31,
+      "avg_amount": 12009.69
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": true,
+      "do_not_retry": true
+    }
+  },
+  {
+    "transaction_id": "tx_450683",
+    "customer_id": "cust_A_5893",
+    "amount": 4811.74,
+    "currency": "INR",
+    "failure_code": "ERR_956",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-01T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.44,
+      "past_retry_responsiveness": 0.55,
+      "total_transactions": 25,
+      "avg_amount": 4645.45
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_501702",
+    "customer_id": "cust_A_3139",
+    "amount": 13508.82,
+    "currency": "INR",
+    "failure_code": "ERR_786",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-03T09:47:01.913998",
+    "retry_count": 3,
+    "customer_payment_history": {
+      "past_success_rate": 0.07,
+      "past_retry_responsiveness": 0.44,
+      "total_transactions": 42,
+      "avg_amount": 18647.82
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_494038",
+    "customer_id": "cust_A_7506",
+    "amount": 15400.87,
+    "currency": "INR",
+    "failure_code": "ERR_659",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-11T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.29,
+      "past_retry_responsiveness": 0.92,
+      "total_transactions": 14,
+      "avg_amount": 19219.13
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_738240",
+    "customer_id": "cust_A_5372",
+    "amount": 11464.65,
+    "currency": "INR",
+    "failure_code": "ERR_894",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-22T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.03,
+      "past_retry_responsiveness": 0.25,
+      "total_transactions": 30,
+      "avg_amount": 11887.91
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_759557",
+    "customer_id": "cust_A_8373",
+    "amount": 18025.47,
+    "currency": "INR",
+    "failure_code": "ERR_927",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-14T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.17,
+      "past_retry_responsiveness": 0.92,
+      "total_transactions": 18,
+      "avg_amount": 3742.85
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_379997",
+    "customer_id": "cust_A_4993",
+    "amount": 23952.21,
+    "currency": "INR",
+    "failure_code": "ERR_138",
+    "failure_reason": "card_declined",
+    "timestamp": "2026-08-16T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.43,
+      "past_retry_responsiveness": 0.63,
+      "total_transactions": 30,
+      "avg_amount": 5086.37
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_657341",
+    "customer_id": "cust_A_8705",
+    "amount": 22277.24,
+    "currency": "INR",
+    "failure_code": "ERR_481",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-01T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "total_transactions": 0,
+      "past_success_rate": 0.0
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_527697",
+    "customer_id": "cust_A_6875",
+    "amount": 13376.33,
+    "currency": "INR",
+    "failure_code": "ERR_834",
+    "failure_reason": "expired_card",
+    "timestamp": "2026-08-19T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.82,
+      "past_retry_responsiveness": 0.03,
+      "total_transactions": 11,
+      "avg_amount": 17062.24
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_159531",
+    "customer_id": "cust_A_3078",
+    "amount": 918.86,
+    "currency": "INR",
+    "failure_code": "ERR_255",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-04T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 1.0,
+      "past_retry_responsiveness": 0.65,
+      "total_transactions": 14,
+      "avg_amount": 18580.46
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_974236",
+    "customer_id": "cust_A_8263",
+    "amount": 18717.45,
+    "currency": "INR",
+    "failure_code": "ERR_829",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-11T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.63,
+      "past_retry_responsiveness": 0.47,
+      "total_transactions": 38,
+      "avg_amount": 12223.71
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_546388",
+    "customer_id": "cust_A_8114",
+    "amount": 2038.55,
+    "currency": "INR",
+    "failure_code": "ERR_902",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-06T09:47:01.913998",
+    "retry_count": 3,
+    "customer_payment_history": {
+      "past_success_rate": 0.89,
+      "past_retry_responsiveness": 0.86,
+      "total_transactions": 35,
+      "avg_amount": 7054.64
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": true,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_148717",
+    "customer_id": "cust_A_7940",
+    "amount": 13974.64,
+    "currency": "INR",
+    "failure_code": "ERR_481",
+    "failure_reason": "otp_failure",
+    "timestamp": "2026-08-07T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.08,
+      "past_retry_responsiveness": 0.32,
+      "total_transactions": 12,
+      "avg_amount": 12417.44
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_875037",
+    "customer_id": "cust_A_3668",
+    "amount": 18043.36,
+    "currency": "INR",
+    "failure_code": "ERR_980",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-08-16T09:47:01.913998",
+    "retry_count": 3,
+    "customer_payment_history": {
+      "past_success_rate": 0.42,
+      "past_retry_responsiveness": 0.51,
+      "total_transactions": 38,
+      "avg_amount": 10930.21
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_857890",
+    "customer_id": "cust_A_3190",
+    "amount": 8898.02,
+    "currency": "INR",
+    "failure_code": "ERR_700",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-09T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.04,
+      "past_retry_responsiveness": 0.4,
+      "total_transactions": 26,
+      "avg_amount": 7176.57
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_247365",
+    "customer_id": "cust_A_4905",
+    "amount": 22683.51,
+    "currency": "INR",
+    "failure_code": "ERR_607",
+    "failure_reason": "card_declined",
+    "timestamp": "2026-07-29T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.74,
+      "past_retry_responsiveness": 0.67,
+      "total_transactions": 27,
+      "avg_amount": 2896.38
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": true,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_333384",
+    "customer_id": "cust_A_4452",
+    "amount": 5297.25,
+    "currency": "INR",
+    "failure_code": "ERR_508",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-05T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.28,
+      "past_retry_responsiveness": 0.7,
+      "total_transactions": 18,
+      "avg_amount": 11792.88
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": true,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_288487",
+    "customer_id": "cust_A_4865",
+    "amount": 7822.04,
+    "currency": "INR",
+    "failure_code": "ERR_588",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-07-30T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.32,
+      "past_retry_responsiveness": 0.31,
+      "total_transactions": 38,
+      "avg_amount": 9134.13
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_142314",
+    "customer_id": "cust_A_2032",
+    "amount": 24232.34,
+    "currency": "INR",
+    "failure_code": "ERR_477",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-11T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.11,
+      "past_retry_responsiveness": 0.19,
+      "total_transactions": 28,
+      "avg_amount": 6674.36
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_947210",
+    "customer_id": "cust_A_4402",
+    "amount": 11525.47,
+    "currency": "INR",
+    "failure_code": "ERR_286",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-07-28T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.1,
+      "past_retry_responsiveness": 0.34,
+      "total_transactions": 29,
+      "avg_amount": 4093.56
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_820294",
+    "customer_id": "cust_A_4809",
+    "amount": 10226.8,
+    "currency": "INR",
+    "failure_code": "ERR_545",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-19T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.5,
+      "past_retry_responsiveness": 0.21,
+      "total_transactions": 4,
+      "avg_amount": 4681.58
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_714560",
+    "customer_id": "cust_A_1993",
+    "amount": 11880.48,
+    "currency": "INR",
+    "failure_code": "ERR_443",
+    "failure_reason": "expired_card",
+    "timestamp": "2026-08-03T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.0,
+      "past_retry_responsiveness": 0.57,
+      "total_transactions": 17,
+      "avg_amount": 2728.75
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_874339",
+    "customer_id": "cust_A_8434",
+    "amount": 12208.52,
+    "currency": "INR",
+    "failure_code": "ERR_387",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-23T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.42,
+      "past_retry_responsiveness": 0.2,
+      "total_transactions": 19,
+      "avg_amount": 10393.62
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_644340",
+    "customer_id": "cust_A_6629",
+    "amount": 11144.58,
+    "currency": "INR",
+    "failure_code": "ERR_951",
+    "failure_reason": "otp_failure",
+    "timestamp": "2026-08-16T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.47,
+      "past_retry_responsiveness": 0.74,
+      "total_transactions": 17,
+      "avg_amount": 1620.26
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": true,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_585262",
+    "customer_id": "cust_A_5996",
+    "amount": 22461.49,
+    "currency": "INR",
+    "failure_code": "ERR_804",
+    "failure_reason": "expired_card",
+    "timestamp": "2026-08-22T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.2,
+      "past_retry_responsiveness": 0.69,
+      "total_transactions": 20,
+      "avg_amount": 10989.47
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_294981",
+    "customer_id": "cust_A_9281",
+    "amount": 4904.28,
+    "currency": "INR",
+    "failure_code": "ERR_171",
+    "failure_reason": "expired_card",
+    "timestamp": "2026-08-15T09:47:01.913998",
+    "retry_count": 3,
+    "customer_payment_history": {
+      "past_success_rate": 0.9,
+      "past_retry_responsiveness": 0.05,
+      "total_transactions": 31,
+      "avg_amount": 3509.73
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_232863",
+    "customer_id": "cust_A_8832",
+    "amount": 15797.42,
+    "currency": "INR",
+    "failure_code": "ERR_201",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-08-22T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.08,
+      "past_retry_responsiveness": 0.59,
+      "total_transactions": 26,
+      "avg_amount": 19967.15
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_406884",
+    "customer_id": "cust_A_2677",
+    "amount": 14178.75,
+    "currency": "INR",
+    "failure_code": "ERR_369",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-07T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 1.0,
+      "past_retry_responsiveness": 0.37,
+      "total_transactions": 2,
+      "avg_amount": 6341.26
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_634252",
+    "customer_id": "cust_A_1512",
+    "amount": 7507.23,
+    "currency": "INR",
+    "failure_code": "ERR_919",
+    "failure_reason": "otp_failure",
+    "timestamp": "2026-07-27T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.79,
+      "past_retry_responsiveness": 0.44,
+      "total_transactions": 39,
+      "avg_amount": 8427.23
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_118859",
+    "customer_id": "cust_A_9945",
+    "amount": 12614.01,
+    "currency": "INR",
+    "failure_code": "ERR_768",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-14T09:47:01.913998",
+    "retry_count": 3,
+    "customer_payment_history": {
+      "past_success_rate": 0.18,
+      "past_retry_responsiveness": 0.82,
+      "total_transactions": 22,
+      "avg_amount": 8665.83
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_269174",
+    "customer_id": "cust_A_4592",
+    "amount": 24502.81,
+    "currency": "INR",
+    "failure_code": "ERR_395",
+    "failure_reason": "expired_card",
+    "timestamp": "2026-08-02T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "total_transactions": 0,
+      "past_success_rate": 0.0
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": true,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_718172",
+    "customer_id": "cust_A_4908",
+    "amount": 12281.39,
+    "currency": "INR",
+    "failure_code": "ERR_583",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-01T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "total_transactions": 0,
+      "past_success_rate": 0.0
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_926081",
+    "customer_id": "cust_A_2479",
+    "amount": 2192.24,
+    "currency": "INR",
+    "failure_code": "ERR_330",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-17T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.4,
+      "past_retry_responsiveness": 0.43,
+      "total_transactions": 43,
+      "avg_amount": 7006.15
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_133258",
+    "customer_id": "cust_A_3594",
+    "amount": 21502.14,
+    "currency": "INR",
+    "failure_code": "ERR_990",
+    "failure_reason": "network_error",
+    "timestamp": "2026-08-10T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.53,
+      "past_retry_responsiveness": 0.95,
+      "total_transactions": 19,
+      "avg_amount": 16215.26
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_693930",
+    "customer_id": "cust_A_2706",
+    "amount": 21258.63,
+    "currency": "INR",
+    "failure_code": "ERR_791",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-19T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.43,
+      "past_retry_responsiveness": 0.94,
+      "total_transactions": 7,
+      "avg_amount": 4055.41
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_976147",
+    "customer_id": "cust_A_9422",
+    "amount": 19658.63,
+    "currency": "INR",
+    "failure_code": "ERR_168",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-07-25T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "total_transactions": 0,
+      "past_success_rate": 0.0
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_354229",
+    "customer_id": "cust_A_3479",
+    "amount": 1081.4,
+    "currency": "INR",
+    "failure_code": "ERR_352",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-04T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.15,
+      "past_retry_responsiveness": 0.62,
+      "total_transactions": 13,
+      "avg_amount": 12961.1
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_389312",
+    "customer_id": "cust_A_5766",
+    "amount": 8006.2,
+    "currency": "INR",
+    "failure_code": "ERR_832",
+    "failure_reason": "card_declined",
+    "timestamp": "2026-08-12T09:47:01.913998",
+    "retry_count": 3,
+    "customer_payment_history": {
+      "past_success_rate": 0.0,
+      "past_retry_responsiveness": 0.67,
+      "total_transactions": 16,
+      "avg_amount": 5347.46
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_871600",
+    "customer_id": "cust_A_9845",
+    "amount": 2130.39,
+    "currency": "INR",
+    "failure_code": "ERR_436",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-07-26T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.5,
+      "past_retry_responsiveness": 0.16,
+      "total_transactions": 2,
+      "avg_amount": 9355.85
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_105150",
+    "customer_id": "cust_A_7063",
+    "amount": 15663.93,
+    "currency": "INR",
+    "failure_code": "ERR_559",
+    "failure_reason": "3ds_dropoff",
+    "timestamp": "2026-08-21T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.56,
+      "past_retry_responsiveness": 0.2,
+      "total_transactions": 18,
+      "avg_amount": 6409.36
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_295174",
+    "customer_id": "cust_A_2378",
+    "amount": 11580.09,
+    "currency": "INR",
+    "failure_code": "ERR_243",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-08T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.52,
+      "past_retry_responsiveness": 0.71,
+      "total_transactions": 27,
+      "avg_amount": 2093.43
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_886002",
+    "customer_id": "cust_A_3542",
+    "amount": 20045.95,
+    "currency": "INR",
+    "failure_code": "ERR_860",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-08-17T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.0,
+      "past_retry_responsiveness": 0.95,
+      "total_transactions": 10,
+      "avg_amount": 12176.42
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_331700",
+    "customer_id": "cust_A_2603",
+    "amount": 3379.73,
+    "currency": "INR",
+    "failure_code": "ERR_940",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-12T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.18,
+      "past_retry_responsiveness": 0.2,
+      "total_transactions": 39,
+      "avg_amount": 16612.09
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_313263",
+    "customer_id": "cust_A_8566",
+    "amount": 827.48,
+    "currency": "INR",
+    "failure_code": "ERR_762",
+    "failure_reason": "expired_card",
+    "timestamp": "2026-08-01T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 1.0,
+      "past_retry_responsiveness": 0.13,
+      "total_transactions": 1,
+      "avg_amount": 6311.18
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_123286",
+    "customer_id": "cust_A_6608",
+    "amount": 18344.2,
+    "currency": "INR",
+    "failure_code": "ERR_676",
+    "failure_reason": "3ds_dropoff",
+    "timestamp": "2026-07-28T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 1.0,
+      "past_retry_responsiveness": 0.41,
+      "total_transactions": 12,
+      "avg_amount": 15169.58
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_152183",
+    "customer_id": "cust_A_5083",
+    "amount": 22752.79,
+    "currency": "INR",
+    "failure_code": "ERR_152",
+    "failure_reason": "card_declined",
+    "timestamp": "2026-08-20T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.0,
+      "past_retry_responsiveness": 0.94,
+      "total_transactions": 9,
+      "avg_amount": 18640.81
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_142841",
+    "customer_id": "cust_A_3759",
+    "amount": 3833.23,
+    "currency": "INR",
+    "failure_code": "ERR_985",
+    "failure_reason": "network_error",
+    "timestamp": "2026-07-25T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "total_transactions": 0,
+      "past_success_rate": 0.0
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": true
+    }
+  },
+  {
+    "transaction_id": "tx_917241",
+    "customer_id": "cust_A_4163",
+    "amount": 23446.21,
+    "currency": "INR",
+    "failure_code": "ERR_549",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-07-25T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.3,
+      "past_retry_responsiveness": 0.9,
+      "total_transactions": 40,
+      "avg_amount": 2933.02
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_317334",
+    "customer_id": "cust_A_1905",
+    "amount": 6481.49,
+    "currency": "INR",
+    "failure_code": "ERR_372",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-08-13T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.91,
+      "past_retry_responsiveness": 0.92,
+      "total_transactions": 11,
+      "avg_amount": 8694.17
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_512620",
+    "customer_id": "cust_A_3201",
+    "amount": 4554.32,
+    "currency": "INR",
+    "failure_code": "ERR_277",
+    "failure_reason": "expired_card",
+    "timestamp": "2026-08-20T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.65,
+      "past_retry_responsiveness": 0.01,
+      "total_transactions": 23,
+      "avg_amount": 14937.09
+    },
+    "channel": "app",
+    "compliance_flags": {
+      "do_not_contact": true,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_567071",
+    "customer_id": "cust_A_6145",
+    "amount": 9900.72,
+    "currency": "INR",
+    "failure_code": "ERR_133",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-23T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.72,
+      "past_retry_responsiveness": 0.53,
+      "total_transactions": 40,
+      "avg_amount": 13334.56
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_557072",
+    "customer_id": "cust_A_8562",
+    "amount": 19371.31,
+    "currency": "INR",
+    "failure_code": "ERR_831",
+    "failure_reason": "3ds_dropoff",
+    "timestamp": "2026-08-06T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.0,
+      "past_retry_responsiveness": 0.66,
+      "total_transactions": 16,
+      "avg_amount": 1887.88
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_441827",
+    "customer_id": "cust_A_8276",
+    "amount": 24370.64,
+    "currency": "INR",
+    "failure_code": "ERR_490",
+    "failure_reason": "insufficient_funds",
+    "timestamp": "2026-08-21T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.3,
+      "past_retry_responsiveness": 0.59,
+      "total_transactions": 33,
+      "avg_amount": 825.3
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  },
+  {
+    "transaction_id": "tx_526188",
+    "customer_id": "cust_A_4560",
+    "amount": 16791.91,
+    "currency": "INR",
+    "failure_code": "ERR_364",
+    "failure_reason": "bank_timeout",
+    "timestamp": "2026-07-27T09:47:01.913998",
+    "retry_count": 0,
+    "customer_payment_history": {
+      "past_success_rate": 0.0,
+      "past_retry_responsiveness": 0.93,
+      "total_transactions": 15,
+      "avg_amount": 16236.73
+    },
+    "channel": "web",
+    "compliance_flags": {
+      "do_not_contact": false,
+      "do_not_retry": false
+    }
+  }
+]

@@ -1,0 +1,1262 @@
+[
+  {
+    "invoice_id": "inv_71428",
+    "customer_id": "cust_B_7375",
+    "amount_due": 500,
+    "promise_date": "2026-09-06",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 5,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 10,
+      "typical_payment_size": 100
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 30,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_22739",
+    "customer_id": "cust_B_1562",
+    "amount_due": 360321.69,
+    "promise_date": "2026-08-31",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 3,
+      "past_promises_kept": 2,
+      "avg_days_late_when_kept": 8.4,
+      "typical_payment_size": 183776.44
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 53,
+    "compliance_flags": {
+      "do_not_contact": true
+    }
+  },
+  {
+    "invoice_id": "inv_42875",
+    "customer_id": "cust_B_5698",
+    "amount_due": 245244.52,
+    "promise_date": "2026-08-27",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 8,
+      "past_promises_kept": 3,
+      "avg_days_late_when_kept": 13.4,
+      "typical_payment_size": 15975.85
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 49,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_37397",
+    "customer_id": "cust_B_1880",
+    "amount_due": 280004.47,
+    "promise_date": "2026-09-02",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 7,
+      "past_promises_kept": 2,
+      "avg_days_late_when_kept": 8.5,
+      "typical_payment_size": 280143.21
+    },
+    "communication_channel": "whatsapp",
+    "days_overdue_at_promise": 59,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_64398",
+    "customer_id": "cust_B_3223",
+    "amount_due": 332722.0,
+    "promise_date": "2026-08-31",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 10,
+      "past_promises_kept": 7,
+      "avg_days_late_when_kept": 12.9,
+      "typical_payment_size": 204595.82
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 44,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_87594",
+    "customer_id": "cust_B_8853",
+    "amount_due": 44574.34,
+    "promise_date": "2026-08-25",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 6,
+      "past_promises_kept": 1,
+      "avg_days_late_when_kept": 3.3,
+      "typical_payment_size": 122151.95
+    },
+    "communication_channel": "whatsapp",
+    "days_overdue_at_promise": 59,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_89179",
+    "customer_id": "cust_B_9159",
+    "amount_due": 117829.62,
+    "promise_date": "2026-08-28",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 7,
+      "past_promises_kept": 7,
+      "avg_days_late_when_kept": 11.8,
+      "typical_payment_size": 200453.36
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 9,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_74178",
+    "customer_id": "cust_B_9103",
+    "amount_due": 256970.38,
+    "promise_date": "2026-09-04",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 6,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 0,
+      "typical_payment_size": 59810.64
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 44,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_95604",
+    "customer_id": "cust_B_6308",
+    "amount_due": 329030.13,
+    "promise_date": "2026-09-05",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 0,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 0,
+      "typical_payment_size": 73872.22
+    },
+    "communication_channel": "whatsapp",
+    "days_overdue_at_promise": 5,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_45896",
+    "customer_id": "cust_B_1749",
+    "amount_due": 79708.84,
+    "promise_date": "2026-08-30",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 0,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 0,
+      "typical_payment_size": 206823.4
+    },
+    "communication_channel": "whatsapp",
+    "days_overdue_at_promise": 10,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_53141",
+    "customer_id": "cust_B_2040",
+    "amount_due": 191559.98,
+    "promise_date": "2026-09-05",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 2,
+      "past_promises_kept": 2,
+      "avg_days_late_when_kept": 7.2,
+      "typical_payment_size": 297677.99
+    },
+    "communication_channel": "whatsapp",
+    "days_overdue_at_promise": 13,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_65755",
+    "customer_id": "cust_B_9574",
+    "amount_due": 144859.02,
+    "promise_date": "2026-09-03",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 10,
+      "past_promises_kept": 1,
+      "avg_days_late_when_kept": 5.6,
+      "typical_payment_size": 77039.7
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 38,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_45854",
+    "customer_id": "cust_B_6745",
+    "amount_due": 449640.7,
+    "promise_date": "2026-08-28",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 8,
+      "past_promises_kept": 3,
+      "avg_days_late_when_kept": 6.6,
+      "typical_payment_size": 88775.98
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 14,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_49794",
+    "customer_id": "cust_B_1376",
+    "amount_due": 78609.6,
+    "promise_date": "2026-08-29",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 9,
+      "past_promises_kept": 9,
+      "avg_days_late_when_kept": 2.2,
+      "typical_payment_size": 258890.85
+    },
+    "communication_channel": "whatsapp",
+    "days_overdue_at_promise": 10,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_74314",
+    "customer_id": "cust_B_8477",
+    "amount_due": 279129.08,
+    "promise_date": "2026-09-04",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 1,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 0,
+      "typical_payment_size": 37628.98
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 10,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_74839",
+    "customer_id": "cust_B_9469",
+    "amount_due": 478730.49,
+    "promise_date": "2026-09-03",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 9,
+      "past_promises_kept": 8,
+      "avg_days_late_when_kept": 7.8,
+      "typical_payment_size": 117661.0
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 9,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_86029",
+    "customer_id": "cust_B_1491",
+    "amount_due": 303814.36,
+    "promise_date": "2026-08-30",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 7,
+      "past_promises_kept": 4,
+      "avg_days_late_when_kept": 7.6,
+      "typical_payment_size": 180598.86
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 18,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_30494",
+    "customer_id": "cust_B_4434",
+    "amount_due": 254483.69,
+    "promise_date": "2026-09-04",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 7,
+      "past_promises_kept": 6,
+      "avg_days_late_when_kept": 14.1,
+      "typical_payment_size": 63133.27
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 14,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_32057",
+    "customer_id": "cust_B_4118",
+    "amount_due": 116563.03,
+    "promise_date": "2026-09-04",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 10,
+      "past_promises_kept": 1,
+      "avg_days_late_when_kept": 4.9,
+      "typical_payment_size": 16296.28
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 55,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_25325",
+    "customer_id": "cust_B_3093",
+    "amount_due": 315619.19,
+    "promise_date": "2026-08-28",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 2,
+      "past_promises_kept": 1,
+      "avg_days_late_when_kept": 7.3,
+      "typical_payment_size": 229845.85
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 22,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_85418",
+    "customer_id": "cust_B_3315",
+    "amount_due": 362130.3,
+    "promise_date": "2026-08-28",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 1,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 0,
+      "typical_payment_size": 48489.89
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 5,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_23875",
+    "customer_id": "cust_B_1753",
+    "amount_due": 214659.69,
+    "promise_date": "2026-09-01",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 10,
+      "past_promises_kept": 5,
+      "avg_days_late_when_kept": 0.5,
+      "typical_payment_size": 228465.75
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 54,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_76859",
+    "customer_id": "cust_B_9923",
+    "amount_due": 500,
+    "promise_date": "2026-09-06",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 5,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 10,
+      "typical_payment_size": 100
+    },
+    "communication_channel": "whatsapp",
+    "days_overdue_at_promise": 30,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_37095",
+    "customer_id": "cust_B_7817",
+    "amount_due": 17770.55,
+    "promise_date": "2026-09-04",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 5,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 0,
+      "typical_payment_size": 154796.41
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 14,
+    "compliance_flags": {
+      "do_not_contact": true
+    }
+  },
+  {
+    "invoice_id": "inv_91792",
+    "customer_id": "cust_B_4209",
+    "amount_due": 270152.11,
+    "promise_date": "2026-09-07",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 5,
+      "past_promises_kept": 3,
+      "avg_days_late_when_kept": 9.3,
+      "typical_payment_size": 154091.07
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 56,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_14443",
+    "customer_id": "cust_B_4024",
+    "amount_due": 145533.18,
+    "promise_date": "2026-09-03",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 5,
+      "past_promises_kept": 2,
+      "avg_days_late_when_kept": 0.5,
+      "typical_payment_size": 165603.13
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 24,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_98316",
+    "customer_id": "cust_B_1059",
+    "amount_due": 314548.01,
+    "promise_date": "2026-09-04",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 8,
+      "past_promises_kept": 8,
+      "avg_days_late_when_kept": 11.9,
+      "typical_payment_size": 87850.44
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 60,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_68723",
+    "customer_id": "cust_B_5862",
+    "amount_due": 318609.01,
+    "promise_date": "2026-09-01",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 2,
+      "past_promises_kept": 2,
+      "avg_days_late_when_kept": 3.1,
+      "typical_payment_size": 114426.29
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 35,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_53587",
+    "customer_id": "cust_B_3156",
+    "amount_due": 286533.53,
+    "promise_date": "2026-08-25",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 9,
+      "past_promises_kept": 3,
+      "avg_days_late_when_kept": 0.1,
+      "typical_payment_size": 50423.72
+    },
+    "communication_channel": "whatsapp",
+    "days_overdue_at_promise": 32,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_61451",
+    "customer_id": "cust_B_1944",
+    "amount_due": 181513.34,
+    "promise_date": "2026-09-02",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 0,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 0,
+      "typical_payment_size": 122218.01
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 41,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_25668",
+    "customer_id": "cust_B_6350",
+    "amount_due": 500,
+    "promise_date": "2026-09-05",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 5,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 10,
+      "typical_payment_size": 100
+    },
+    "communication_channel": "whatsapp",
+    "days_overdue_at_promise": 30,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_52066",
+    "customer_id": "cust_B_9063",
+    "amount_due": 187421.88,
+    "promise_date": "2026-09-02",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 4,
+      "past_promises_kept": 1,
+      "avg_days_late_when_kept": 13.8,
+      "typical_payment_size": 241794.52
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 51,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_21541",
+    "customer_id": "cust_B_8649",
+    "amount_due": 343294.11,
+    "promise_date": "2026-08-26",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 6,
+      "past_promises_kept": 6,
+      "avg_days_late_when_kept": 2.9,
+      "typical_payment_size": 251329.78
+    },
+    "communication_channel": "whatsapp",
+    "days_overdue_at_promise": 31,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_97480",
+    "customer_id": "cust_B_2148",
+    "amount_due": 175550.33,
+    "promise_date": "2026-09-07",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 9,
+      "past_promises_kept": 3,
+      "avg_days_late_when_kept": 4.4,
+      "typical_payment_size": 249188.0
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 39,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_39172",
+    "customer_id": "cust_B_4221",
+    "amount_due": 500,
+    "promise_date": "2026-08-30",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 5,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 10,
+      "typical_payment_size": 100
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 30,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_88507",
+    "customer_id": "cust_B_1038",
+    "amount_due": 212239.94,
+    "promise_date": "2026-09-06",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 3,
+      "past_promises_kept": 2,
+      "avg_days_late_when_kept": 14.4,
+      "typical_payment_size": 6764.83
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 48,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_40078",
+    "customer_id": "cust_B_2953",
+    "amount_due": 441957.64,
+    "promise_date": "2026-09-06",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 6,
+      "past_promises_kept": 2,
+      "avg_days_late_when_kept": 13.0,
+      "typical_payment_size": 269827.54
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 24,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_64941",
+    "customer_id": "cust_B_4911",
+    "amount_due": 405522.56,
+    "promise_date": "2026-09-04",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 9,
+      "past_promises_kept": 7,
+      "avg_days_late_when_kept": 5.9,
+      "typical_payment_size": 297767.5
+    },
+    "communication_channel": "whatsapp",
+    "days_overdue_at_promise": 28,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_89026",
+    "customer_id": "cust_B_1128",
+    "amount_due": 374433.78,
+    "promise_date": "2026-09-03",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 0,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 0,
+      "typical_payment_size": 5362.08
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 36,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_23183",
+    "customer_id": "cust_B_2693",
+    "amount_due": 486397.91,
+    "promise_date": "2026-08-28",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 10,
+      "past_promises_kept": 2,
+      "avg_days_late_when_kept": 12.1,
+      "typical_payment_size": 141290.77
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 45,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_74159",
+    "customer_id": "cust_B_1032",
+    "amount_due": 88741.94,
+    "promise_date": "2026-08-31",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 1,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 0,
+      "typical_payment_size": 293540.53
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 19,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_59251",
+    "customer_id": "cust_B_2811",
+    "amount_due": 185399.05,
+    "promise_date": "2026-08-28",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 3,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 0,
+      "typical_payment_size": 76555.82
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 55,
+    "compliance_flags": {
+      "do_not_contact": true
+    }
+  },
+  {
+    "invoice_id": "inv_80245",
+    "customer_id": "cust_B_1302",
+    "amount_due": 135938.69,
+    "promise_date": "2026-08-29",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 4,
+      "past_promises_kept": 1,
+      "avg_days_late_when_kept": 13.3,
+      "typical_payment_size": 188407.71
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 52,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_68257",
+    "customer_id": "cust_B_2080",
+    "amount_due": 401763.94,
+    "promise_date": "2026-09-05",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 10,
+      "past_promises_kept": 1,
+      "avg_days_late_when_kept": 8.7,
+      "typical_payment_size": 51628.42
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 38,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_55664",
+    "customer_id": "cust_B_9360",
+    "amount_due": 110957.76,
+    "promise_date": "2026-08-31",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 10,
+      "past_promises_kept": 3,
+      "avg_days_late_when_kept": 12.3,
+      "typical_payment_size": 154079.03
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 19,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_14489",
+    "customer_id": "cust_B_6825",
+    "amount_due": 249484.23,
+    "promise_date": "2026-09-07",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 6,
+      "past_promises_kept": 6,
+      "avg_days_late_when_kept": 10.3,
+      "typical_payment_size": 139433.02
+    },
+    "communication_channel": "whatsapp",
+    "days_overdue_at_promise": 34,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_41985",
+    "customer_id": "cust_B_4712",
+    "amount_due": 249806.12,
+    "promise_date": "2026-08-26",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 7,
+      "past_promises_kept": 7,
+      "avg_days_late_when_kept": 5.9,
+      "typical_payment_size": 130219.64
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 34,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_28903",
+    "customer_id": "cust_B_4950",
+    "amount_due": 221081.58,
+    "promise_date": "2026-09-02",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 10,
+      "past_promises_kept": 10,
+      "avg_days_late_when_kept": 8.9,
+      "typical_payment_size": 32109.27
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 34,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_54324",
+    "customer_id": "cust_B_2509",
+    "amount_due": 306360.81,
+    "promise_date": "2026-08-27",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 3,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 0,
+      "typical_payment_size": 14240.13
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 15,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_13923",
+    "customer_id": "cust_B_2863",
+    "amount_due": 35326.0,
+    "promise_date": "2026-09-02",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 8,
+      "past_promises_kept": 8,
+      "avg_days_late_when_kept": 14.6,
+      "typical_payment_size": 155180.6
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 18,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_58886",
+    "customer_id": "cust_B_6551",
+    "amount_due": 137868.08,
+    "promise_date": "2026-08-29",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 3,
+      "past_promises_kept": 2,
+      "avg_days_late_when_kept": 8.2,
+      "typical_payment_size": 12545.37
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 60,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_30438",
+    "customer_id": "cust_B_4016",
+    "amount_due": 234464.08,
+    "promise_date": "2026-08-28",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 0,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 0,
+      "typical_payment_size": 164053.55
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 16,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_40989",
+    "customer_id": "cust_B_3592",
+    "amount_due": 500,
+    "promise_date": "2026-09-05",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 5,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 10,
+      "typical_payment_size": 100
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 30,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_19414",
+    "customer_id": "cust_B_5761",
+    "amount_due": 256980.22,
+    "promise_date": "2026-09-01",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 8,
+      "past_promises_kept": 1,
+      "avg_days_late_when_kept": 1.5,
+      "typical_payment_size": 276993.01
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 48,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_65097",
+    "customer_id": "cust_B_2398",
+    "amount_due": 83742.61,
+    "promise_date": "2026-09-03",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 2,
+      "past_promises_kept": 2,
+      "avg_days_late_when_kept": 5.6,
+      "typical_payment_size": 232746.22
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 40,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_73437",
+    "customer_id": "cust_B_3870",
+    "amount_due": 438941.63,
+    "promise_date": "2026-09-04",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 2,
+      "past_promises_kept": 1,
+      "avg_days_late_when_kept": 9.0,
+      "typical_payment_size": 198602.51
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 19,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_19221",
+    "customer_id": "cust_B_3797",
+    "amount_due": 105576.72,
+    "promise_date": "2026-09-06",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 10,
+      "past_promises_kept": 7,
+      "avg_days_late_when_kept": 1.2,
+      "typical_payment_size": 57830.84
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 13,
+    "compliance_flags": {
+      "do_not_contact": true
+    }
+  },
+  {
+    "invoice_id": "inv_72616",
+    "customer_id": "cust_B_7566",
+    "amount_due": 201964.1,
+    "promise_date": "2026-09-01",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 1,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 0,
+      "typical_payment_size": 276206.88
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 16,
+    "compliance_flags": {
+      "do_not_contact": true
+    }
+  },
+  {
+    "invoice_id": "inv_83663",
+    "customer_id": "cust_B_9208",
+    "amount_due": 394284.49,
+    "promise_date": "2026-08-30",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 0,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 0,
+      "typical_payment_size": 217942.05
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 16,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_17631",
+    "customer_id": "cust_B_1315",
+    "amount_due": 191450.18,
+    "promise_date": "2026-09-05",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 3,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 0,
+      "typical_payment_size": 284083.05
+    },
+    "communication_channel": "whatsapp",
+    "days_overdue_at_promise": 17,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_25280",
+    "customer_id": "cust_B_3204",
+    "amount_due": 319882.97,
+    "promise_date": "2026-08-27",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 10,
+      "past_promises_kept": 10,
+      "avg_days_late_when_kept": 13.1,
+      "typical_payment_size": 189125.68
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 48,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_20352",
+    "customer_id": "cust_B_1557",
+    "amount_due": 102191.86,
+    "promise_date": "2026-08-29",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 3,
+      "past_promises_kept": 2,
+      "avg_days_late_when_kept": 7.7,
+      "typical_payment_size": 174870.71
+    },
+    "communication_channel": "whatsapp",
+    "days_overdue_at_promise": 51,
+    "compliance_flags": {
+      "do_not_contact": true
+    }
+  },
+  {
+    "invoice_id": "inv_82340",
+    "customer_id": "cust_B_2294",
+    "amount_due": 500,
+    "promise_date": "2026-08-26",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 5,
+      "past_promises_kept": 0,
+      "avg_days_late_when_kept": 10,
+      "typical_payment_size": 100
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 30,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_26307",
+    "customer_id": "cust_B_8927",
+    "amount_due": 435514.29,
+    "promise_date": "2026-08-26",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 5,
+      "past_promises_kept": 3,
+      "avg_days_late_when_kept": 1.4,
+      "typical_payment_size": 216094.87
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 41,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_27385",
+    "customer_id": "cust_B_1262",
+    "amount_due": 381509.78,
+    "promise_date": "2026-09-04",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 3,
+      "past_promises_kept": 3,
+      "avg_days_late_when_kept": 7.9,
+      "typical_payment_size": 253285.53
+    },
+    "communication_channel": "whatsapp",
+    "days_overdue_at_promise": 29,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_84876",
+    "customer_id": "cust_B_8194",
+    "amount_due": 192355.18,
+    "promise_date": "2026-09-01",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 4,
+      "past_promises_kept": 2,
+      "avg_days_late_when_kept": 13.4,
+      "typical_payment_size": 103745.45
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 4,
+    "compliance_flags": {
+      "do_not_contact": true
+    }
+  },
+  {
+    "invoice_id": "inv_24535",
+    "customer_id": "cust_B_6186",
+    "amount_due": 155974.72,
+    "promise_date": "2026-08-31",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 10,
+      "past_promises_kept": 9,
+      "avg_days_late_when_kept": 12.7,
+      "typical_payment_size": 247397.9
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 34,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_51837",
+    "customer_id": "cust_B_4443",
+    "amount_due": 52601.34,
+    "promise_date": "2026-08-31",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 8,
+      "past_promises_kept": 1,
+      "avg_days_late_when_kept": 3.9,
+      "typical_payment_size": 75373.32
+    },
+    "communication_channel": "whatsapp",
+    "days_overdue_at_promise": 9,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_12432",
+    "customer_id": "cust_B_5061",
+    "amount_due": 260342.12,
+    "promise_date": "2026-09-04",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 6,
+      "past_promises_kept": 4,
+      "avg_days_late_when_kept": 2.9,
+      "typical_payment_size": 220138.73
+    },
+    "communication_channel": "sms",
+    "days_overdue_at_promise": 52,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  },
+  {
+    "invoice_id": "inv_36360",
+    "customer_id": "cust_B_9240",
+    "amount_due": 97030.23,
+    "promise_date": "2026-08-30",
+    "promise_made_timestamp": "2026-08-24T09:47:01.913998",
+    "customer_reliability_history": {
+      "past_promises_made": 10,
+      "past_promises_kept": 1,
+      "avg_days_late_when_kept": 10.5,
+      "typical_payment_size": 237722.28
+    },
+    "communication_channel": "email",
+    "days_overdue_at_promise": 16,
+    "compliance_flags": {
+      "do_not_contact": false
+    }
+  }
+]

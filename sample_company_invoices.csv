@@ -1,0 +1,16 @@
+Invoice Number,Client ID,Total Value,Days Overdue,Historical Late Payments,Payment Status
+INV-1001,CUST-A,4500,12,0,unpaid
+INV-1002,CUST-B,12000,4,1,unpaid
+INV-1003,CUST-C,800,25,4,insufficient_funds
+INV-1004,CUST-D,3200,0,,card_declined
+INV-1005,CUST-E,15000,60,2,bank_timeout
+INV-1006,CUST-F,450,2,0,unpaid
+INV-1007,CUST-G,7800,15,1,expired_card
+INV-1008,CUST-H,920,8,0,network_error
+INV-1009,CUST-I,21000,45,5,unpaid
+INV-1010,CUST-J,5500,1,0,3ds_dropoff
+INV-1011,CUST-K,340,90,1,unpaid
+INV-1012,CUST-L,8900,0,,otp_failure
+INV-1013,CUST-M,1250,5,0,unpaid
+INV-1014,CUST-N,4400,20,3,card_declined
+INV-1015,CUST-O,6700,30,2,unpaid

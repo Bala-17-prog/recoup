@@ -1,0 +1,361 @@
+[
+  {
+    "record_id": "INV-1001",
+    "customer_id": "CUST-889",
+    "customer_name": "Rahul Sharma",
+    "recovery_type": "CHECKOUT_DROPOFF",
+    "amount": 55000.0,
+    "currency": "INR",
+    "retry_count": 3,
+    "abandonment_stage": "session_timeout",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1002",
+    "customer_id": "CUST-854",
+    "customer_name": "Sneha Gupta",
+    "recovery_type": "MANDATE_FAILURE",
+    "amount": 6504.94,
+    "currency": "INR",
+    "retry_count": 2,
+    "mandate_error": "mandate_failed",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1003",
+    "customer_id": "CUST-416",
+    "customer_name": "Priya Singh",
+    "recovery_type": "CHECKOUT_DROPOFF",
+    "amount": 17099.86,
+    "currency": "INR",
+    "retry_count": 1,
+    "abandonment_stage": "pricing_friction",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1004",
+    "customer_id": "CUST-954",
+    "customer_name": "Priya Singh",
+    "recovery_type": "PROMISE_TO_PAY",
+    "amount": 20779.8,
+    "currency": "INR",
+    "retry_count": 3,
+    "promise_date": "2026-08-27",
+    "promise_status": "PENDING",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1005",
+    "customer_id": "CUST-764",
+    "customer_name": "TechFlow Inc",
+    "recovery_type": "B2B_RECEIVABLE",
+    "amount": 8440.88,
+    "currency": "INR",
+    "retry_count": 1,
+    "days_overdue": 45,
+    "b2b_status": "invoice_overdue",
+    "language": "HINGLISH",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1006",
+    "customer_id": "CUST-961",
+    "customer_name": "Acme Corp",
+    "recovery_type": "CHECKOUT_DROPOFF",
+    "amount": 10035.71,
+    "currency": "INR",
+    "retry_count": 1,
+    "abandonment_stage": "checkout_error",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1007",
+    "customer_id": "CUST-667",
+    "customer_name": "Acme Corp",
+    "recovery_type": "B2B_RECEIVABLE",
+    "amount": 6767.45,
+    "currency": "INR",
+    "retry_count": 1,
+    "b2b_status": "disputed_invoice",
+    "language": "HINGLISH",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1008",
+    "customer_id": "CUST-640",
+    "customer_name": "Neo Ventures",
+    "recovery_type": "PROMISE_TO_PAY",
+    "amount": 29723.54,
+    "currency": "INR",
+    "retry_count": 2,
+    "promise_date": "2026-08-27",
+    "promise_status": "PENDING",
+    "compliance_flags": {
+      "do_not_retry": true
+    }
+  },
+  {
+    "record_id": "INV-1009",
+    "customer_id": "CUST-767",
+    "customer_name": "Amit Patel",
+    "recovery_type": "PAYMENT_FAILURE",
+    "amount": 44577.62,
+    "currency": "INR",
+    "retry_count": 2,
+    "error_code": "card_declined",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1010",
+    "customer_id": "CUST-625",
+    "customer_name": "Sneha Gupta",
+    "recovery_type": "PROMISE_TO_PAY",
+    "amount": 22152.77,
+    "currency": "INR",
+    "retry_count": 2,
+    "promise_date": "2026-08-22",
+    "promise_status": "MISSED",
+    "compliance_flags": {
+      "do_not_contact": true
+    }
+  },
+  {
+    "record_id": "INV-1011",
+    "customer_id": "CUST-268",
+    "customer_name": "Acme Corp",
+    "recovery_type": "MANDATE_FAILURE",
+    "amount": 43136.38,
+    "currency": "INR",
+    "retry_count": 2,
+    "mandate_error": "retry_required",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1012",
+    "customer_id": "CUST-417",
+    "customer_name": "Priya Singh",
+    "recovery_type": "MANDATE_FAILURE",
+    "amount": 44376.68,
+    "currency": "INR",
+    "retry_count": 2,
+    "mandate_error": "mandate_expired",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1013",
+    "customer_id": "CUST-637",
+    "customer_name": "TechFlow Inc",
+    "recovery_type": "B2B_RECEIVABLE",
+    "amount": 10045.0,
+    "currency": "INR",
+    "retry_count": 1,
+    "b2b_status": "invoice_overdue",
+    "language": "ENGLISH",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1014",
+    "customer_id": "CUST-775",
+    "customer_name": "Sneha Gupta",
+    "recovery_type": "PROMISE_TO_PAY",
+    "amount": 7999.07,
+    "currency": "INR",
+    "retry_count": 0,
+    "promise_date": "2026-08-27",
+    "promise_status": "PENDING",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1015",
+    "customer_id": "CUST-354",
+    "customer_name": "Rahul Sharma",
+    "recovery_type": "PAYMENT_FAILURE",
+    "amount": 49779.89,
+    "currency": "INR",
+    "retry_count": 0,
+    "error_code": "insufficient_funds",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1016",
+    "customer_id": "CUST-804",
+    "customer_name": "Amit Patel",
+    "recovery_type": "PAYMENT_FAILURE",
+    "amount": 12954.15,
+    "currency": "INR",
+    "retry_count": 0,
+    "error_code": "authentication_failed",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1017",
+    "customer_id": "CUST-298",
+    "customer_name": "Global Industries",
+    "recovery_type": "PROMISE_TO_PAY",
+    "amount": 22983.79,
+    "currency": "INR",
+    "retry_count": 3,
+    "promise_date": "2026-08-22",
+    "promise_status": "MISSED",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1018",
+    "customer_id": "CUST-712",
+    "customer_name": "Global Industries",
+    "recovery_type": "PAYMENT_FAILURE",
+    "amount": 46552.37,
+    "currency": "INR",
+    "retry_count": 3,
+    "error_code": "bank_timeout",
+    "compliance_flags": {
+      "do_not_retry": true
+    }
+  },
+  {
+    "record_id": "INV-1019",
+    "customer_id": "CUST-499",
+    "customer_name": "Global Industries",
+    "recovery_type": "CHECKOUT_DROPOFF",
+    "amount": 49904.16,
+    "currency": "INR",
+    "retry_count": 0,
+    "abandonment_stage": "session_timeout",
+    "compliance_flags": {
+      "do_not_retry": true
+    }
+  },
+  {
+    "record_id": "INV-1020",
+    "customer_id": "CUST-671",
+    "customer_name": "Global Industries",
+    "recovery_type": "PAYMENT_FAILURE",
+    "amount": 49612.97,
+    "currency": "INR",
+    "retry_count": 1,
+    "error_code": "network_error",
+    "compliance_flags": {
+      "do_not_contact": true
+    }
+  },
+  {
+    "record_id": "INV-1021",
+    "customer_id": "CUST-759",
+    "customer_name": "Acme Corp",
+    "recovery_type": "PAYMENT_FAILURE",
+    "amount": 11373.66,
+    "currency": "INR",
+    "retry_count": 0,
+    "error_code": "authentication_failed",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1022",
+    "customer_id": "CUST-888",
+    "customer_name": "Rahul Sharma",
+    "recovery_type": "B2B_RECEIVABLE",
+    "amount": 2168.12,
+    "currency": "INR",
+    "retry_count": 0,
+    "b2b_status": "invoice_overdue",
+    "language": "HINGLISH",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1023",
+    "customer_id": "CUST-813",
+    "customer_name": "Acme Corp",
+    "recovery_type": "MANDATE_FAILURE",
+    "amount": 7610.69,
+    "currency": "INR",
+    "retry_count": 0,
+    "mandate_error": "retry_required",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1024",
+    "customer_id": "CUST-557",
+    "customer_name": "Priya Singh",
+    "recovery_type": "B2B_RECEIVABLE",
+    "amount": 19416.56,
+    "currency": "INR",
+    "retry_count": 1,
+    "b2b_status": "invoice_overdue",
+    "language": "HINGLISH",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1025",
+    "customer_id": "CUST-748",
+    "customer_name": "Rahul Sharma",
+    "recovery_type": "PAYMENT_FAILURE",
+    "amount": 31458.28,
+    "currency": "INR",
+    "retry_count": 3,
+    "error_code": "authentication_failed",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1026",
+    "customer_id": "CUST-983",
+    "customer_name": "TechFlow Inc",
+    "recovery_type": "PROMISE_TO_PAY",
+    "amount": 15389.42,
+    "currency": "INR",
+    "retry_count": 1,
+    "promise_date": "2026-08-20",
+    "promise_status": "MISSED",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1027",
+    "customer_id": "CUST-189",
+    "customer_name": "TechFlow Inc",
+    "recovery_type": "PROMISE_TO_PAY",
+    "amount": 17896.71,
+    "currency": "INR",
+    "retry_count": 0,
+    "promise_date": "2026-08-27",
+    "promise_status": "PENDING",
+    "compliance_flags": {}
+  },
+  {
+    "record_id": "INV-1028",
+    "customer_id": "CUST-190",
+    "customer_name": "Global Industries",
+    "recovery_type": "B2B_RECEIVABLE",
+    "amount": 5757.98,
+    "currency": "INR",
+    "retry_count": 0,
+    "b2b_status": "disputed_invoice",
+    "language": "HINGLISH",
+    "compliance_flags": {
+      "do_not_retry": true
+    }
+  },
+  {
+    "record_id": "INV-1029",
+    "customer_id": "CUST-274",
+    "customer_name": "Neo Ventures",
+    "recovery_type": "MANDATE_FAILURE",
+    "amount": 29418.02,
+    "currency": "INR",
+    "retry_count": 3,
+    "mandate_error": "retry_required",
+    "compliance_flags": {
+      "do_not_retry": true
+    }
+  },
+  {
+    "record_id": "INV-1030",
+    "customer_id": "CUST-218",
+    "customer_name": "Sneha Gupta",
+    "recovery_type": "B2B_RECEIVABLE",
+    "amount": 42201.38,
+    "currency": "INR",
+    "retry_count": 2,
+    "b2b_status": "invoice_overdue",
+    "language": "HINGLISH",
+    "compliance_flags": {}
+  }
+]
