@@ -100,4 +100,4 @@ npm run dev
 
 ---
 
-*Built with 💙 for the Razorpay AI Buildathon.*
+Built with 💙 for the Razorpay AI Buildathon.
